@@ -1,0 +1,18 @@
+{
+  "name": "com.protokit.core",
+  "displayName": "[Protokit] Core",
+  "version": "2.6.3",
+  "unity": "2020.3",
+  "description": "Core package for the prototyping toolkit.  This package contains a number of different helpers and utilities for basic Prototyping work.",
+  "dependencies": {
+    "com.protokit.keystore": "1.0.4",
+    "com.thirdparty.csharp.dlls.buffers": "1.0.0",
+    "com.protokit.browser": "1.2.2",
+	"com.thirdparty.newtonsoft.json": "2.0.0"
+  },
+  "author": {
+    "name": "Alex Marcolina",
+    "email": "amarcolina@fb.com",
+    "url": "https://fb.workplace.com/profile.php?id=100027345590466"
+  }
+}

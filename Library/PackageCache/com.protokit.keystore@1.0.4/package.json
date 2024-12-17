@@ -1,0 +1,7 @@
+{
+  "name": "com.protokit.keystore",
+  "displayName": "[Protokit] Keystore",
+  "version": "1.0.4",
+  "unity": "2019.1",
+  "description": "Automatically manages your Keystores for Android builds."
+}

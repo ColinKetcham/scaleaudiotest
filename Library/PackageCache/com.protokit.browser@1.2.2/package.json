@@ -1,0 +1,16 @@
+{
+  "name": "com.protokit.browser",
+  "displayName": "[Protokit] Browser",
+  "version": "1.2.2",
+  "unity": "2020.3",
+  "description": "Package for improving the browsing experience of the Protokit Package Ecosystem.",
+  "type": "tool",
+  "author": {
+    "name": "Alex Marcolina",
+    "email": "amarcolina@fb.com",
+    "url": "https://fb.workplace.com/profile.php?id=100027345590466"
+  },
+  "dependencies": {
+    "com.thirdparty.newtonsoft.json": "2.0.0"
+  }
+}

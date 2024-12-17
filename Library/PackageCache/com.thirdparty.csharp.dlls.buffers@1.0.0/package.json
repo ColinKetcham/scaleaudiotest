@@ -1,0 +1,7 @@
+{
+  "name": "com.thirdparty.csharp.dlls.buffers",
+  "displayName": "[Dll] Buffers",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "description": "Contains the System.Buffers dll for use with CSharp code."
+}

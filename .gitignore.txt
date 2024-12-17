@@ -1,0 +1,147 @@
+# Unity-specific ignore files
+
+# Ignore all .meta files (except for the ones in the root directory)
+*.meta
+
+# Ignore all .asset files (except for the ones in the root directory)
+*.asset
+
+# Ignore all .unity files (except for the ones in the root directory)
+*.unity
+
+# Ignore all .cubemap files (except for the ones in the root directory)
+*.cubemap
+
+# Ignore all .fbx files (except for the ones in the root directory)
+*.fbx
+
+# Ignore all .obj files (except for the ones in the root directory)
+*.obj
+
+# Ignore all .png files (except for the ones in the root directory)
+*.png
+
+# Ignore all .jpg files (except for the ones in the root directory)
+*.jpg
+
+# Ignore all .jpeg files (except for the ones in the root directory)
+*.jpeg
+
+# Ignore all .gif files (except for the ones in the root directory)
+*.gif
+
+# Ignore all .bmp files (except for the ones in the root directory)
+*.bmp
+
+# Ignore all .tga files (except for the ones in the root directory)
+*.tga
+
+# Ignore all .tif files (except for the ones in the root directory)
+*.tif
+
+# Ignore all .tiff files (except for the ones in the root directory)
+*.tiff
+
+# Ignore all .psd files (except for the ones in the root directory)
+*.psd
+
+# Ignore all .ai files (except for the ones in the root directory)
+*.ai
+
+# Ignore all .eps files (except for the ones in the root directory)
+*.eps
+
+# Ignore all .svg files (except for the ones in the root directory)
+*.svg
+
+# Ignore all .dwg files (except for the ones in the root directory)
+*.dwg
+
+# Ignore all .max files (except for the ones in the root directory)
+*.max
+
+# Ignore all .mb files (except for the ones in the root directory)
+*.mb
+
+# Ignore all .ma files (except for the ones in the root directory)
+*.ma
+
+# Ignore all .blend files (except for the ones in the root directory)
+*.blend
+
+# Ignore all .dae files (except for the ones in the root directory)
+*.dae
+
+# Ignore all .kmz files (except for the ones in the root directory)
+*.kmz
+
+# Ignore all .kml files (except for the ones in the root directory)
+*.kml
+
+# Ignore all .fbm files (except for the ones in the root directory)
+*.fbm
+
+# Ignore all .pvr files (except for the ones in the root directory)
+*.pvr
+
+# Ignore all .etc files (except for the ones in the root directory)
+*.etc
+
+# Ignore all .etcc files (except for the ones in the root directory)
+*.etcc
+
+# Ignore all .etcp files (except for the ones in the root directory)
+*.etcp
+
+# Ignore all .etcr files (except for the ones in the root directory)
+*.etcr
+
+# Ignore all .etcs files (except for the ones in the root directory)
+*.etcs
+
+# Ignore all .etct files (except for the ones in the root directory)
+*.etct
+
+# Ignore all .etcu files (except for the ones in the root directory)
+*.etcu
+
+# Ignore all .etcv files (except for the ones in the root directory)
+*.etcv
+
+# Ignore all .etcx files (except for the ones in the root directory)
+*.etcx
+
+# Ignore all .etcy files (except for the ones in the root directory)
+*.etcy
+
+# Ignore all .etcz files (except for the ones in the root directory)
+*.etcz
+
+# Ignore all .etca files (except for the ones in the root directory)
+*.etca
+
+# Ignore all .etcb files (except for the ones in the root directory)
+*.etcb
+
+# Ignore all .etcc files (except for the ones in the root directory)
+*.etcc
+
+# Ignore all .etcd files (except for the ones in the root directory)
+*.etcd
+
+# Ignore all .etce files (except for the ones in the root directory)
+*.etce
+
+# Ignore all .etcf files (except for the ones in the root directory)
+*.etcf
+
+# Ignore all .etcg files (except for the ones in the root directory)
+*.etcg
+
+# Ignore all .etch files (except for the ones in the root directory)
+*.etch
+
+# Ignore all .etci files (except for the ones in the root directory)
+*.etci
+
+# Ignore

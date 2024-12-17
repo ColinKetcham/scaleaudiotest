@@ -1,0 +1,18 @@
+{
+    "name": "protokit.core.editor",
+    "references": [
+        "Unity.PackageManagerUI.Editor",
+        "com.protokit.keystore"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
